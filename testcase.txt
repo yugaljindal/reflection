@@ -1,3 +1,0 @@
-hello this is new point for learning git and github.
-let check more of git platform.
-hey checking branch
